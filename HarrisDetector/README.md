@@ -18,7 +18,7 @@ Este repositório contém uma implementação **manual** do Detector de Cantos d
    - Mesmos parâmetros \(k\), blockSize e threshold para comparação
 
 3. **Avaliação de Robustez**  
-   - Adição de ruído gaussiano com \(\sigma \in \{0,5,10,20,30,40\}\)  
+   - Adição de ruído gaussiano com sigma in \{0,5,10,20,30,40\}\)  
    - Métricas:
      - **RMS**: distância quadrática média entre cantos “verdadeiros” e detectados  
      - **Falsos Positivos** (Spurious)  
